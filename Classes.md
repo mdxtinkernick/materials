@@ -2,6 +2,7 @@ Week 1
 
 Zoom recording
 https://mdx-ac-uk.zoom.us/rec/share/_aBnD3tbddSa2kM7SVnGdUV26j4X8KgznVA40csMAI8DmfZVpSOjfKpJDZWbioOh.gcQE8XBeMVYZyRtA
+
 Passcode: 9Az0?ZxH 
 
 Shakey Robot
@@ -23,6 +24,11 @@ https://www.ros.org
 
 
 Week 2
+
+Zoom recording
+https://mdx-ac-uk.zoom.us/rec/share/BL_uj1LzwBawDiCY7UIAUatf3t6AvjMtwVlIXfozMau21CMDr8PO3iB4FZRQGmOX.Ye43DKf1063fJnCl
+
+Passcode: &Oi^$6f. 
 
 Issues with Localising - Demo and discussion
 
