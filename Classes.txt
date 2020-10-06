@@ -1,0 +1,48 @@
+Week 1
+
+Zoom recording
+https://mdx-ac-uk.zoom.us/rec/share/_aBnD3tbddSa2kM7SVnGdUV26j4X8KgznVA40csMAI8DmfZVpSOjfKpJDZWbioOh.gcQE8XBeMVYZyRtA
+Passcode: 9Az0?ZxH 
+
+Shakey Robot
+https://www.youtube.com/watch?v=7bsEN8mwUB8
+
+more detail about its layered architecture
+https://www.youtube.com/watch?v=GmU7SimFkpU
+
+Caterpillar
+https://www.youtube.com/watch?v=VkanknGePhc
+
+Voyager
+https://voyage.auto
+https://news.voyage.auto/our-journey-to-driverless-cars-380a022a0e10
+
+ROS websites
+https://www.ros.org
+
+
+
+Week 2
+
+Issues with Localising - Demo and discussion
+
+
+Key concepts in ROS
+roscore    - rosmaster + rosparam
+
+msgs       - rosmsg
+std_msgs
+geometry_msgs
+
+topics     - rostopic
+
+nodes      - rosnode
+
+services
+
+actions
+
+tf
+
+rospy
+
