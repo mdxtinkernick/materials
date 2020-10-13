@@ -52,3 +52,25 @@ tf
 
 rospy
 
+http://wiki.ros.org/ROS/Tutorials#Beginner_Level
+
+Do tutorial 4 + 5
+
+If those go fine look at 12 - Writing pub and sub.
+Do not build them in a workspace (we havent covered that yet). They should run fine by just using python name_of_file in the command line
+
+Change the code to publish and subscribe to a different message type.
+
+Put your code in a repo and add me so I can look at it.
+
+Week 3
+
+Localisation
+
+ROS
+
+more on tf
+
+packages
+
+workspaces
