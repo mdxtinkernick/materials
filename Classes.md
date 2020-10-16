@@ -65,6 +65,12 @@ Put your code in a repo and add me so I can look at it.
 
 Week 3
 
+Zoom recording
+
+https://mdx-ac-uk.zoom.us/rec/share/O_AP-xnDEmDx4eK282x3P4wmYj9LNdabFnItyVp33lzirYHuN-g36E-VeSTWsBH4.Mt3zxGy9mu6HU9nC 
+
+Passcode: \^@ym86WG
+
 Localisation
 
 ROS
