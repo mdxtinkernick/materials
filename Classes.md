@@ -80,3 +80,29 @@ more on tf
 packages
 
 workspaces
+
+Week 4
+
+Zoom recording
+
+https://mdx-ac-uk.zoom.us/rec/share/3cW5EaEWVhzDAHUslN-jkjkNKGo8JoH5jADNWr6cQMmtN_91PiuVuwMqlf3Flvr3.kr4-b6oTbf8hcFFM 
+
+Passcode: FcrnyA1?
+
+Recording of connecting on lab machines
+
+https://mdx-ac-uk.zoom.us/rec/share/Gidf4VysqX_7J0K2DSUZj4VAHhpDNia1qTUOmwbOqjOHy_pyZdTtr4dAtcaBOY_G.HUlcLnNalDayc0hU 
+
+Passcode: UKmg25%h 
+
+Intro to turtlebot
+
+Robot Description
+
+Robot State Publisher
+
+Namespaces
+
+Using ROS over two machines
+
+configuring and sourcing .bashrc file
