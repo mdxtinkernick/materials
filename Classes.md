@@ -106,3 +106,13 @@ Namespaces
 Using ROS over two machines
 
 configuring and sourcing .bashrc file
+
+Week 5
+
+Zoom recording
+
+https://mdx-ac-uk.zoom.us/rec/share/S_aZ0L5GnWcbbTBdgcbjoZ1Z0NJh-dWGOALcpfzBXm7TCdOBdwhRYxSsG_7ETb7t.Iu9mBmvEovT2UGHe 
+
+Passcode: rFh#6y#1
+
+Recapping what has been covered so far
