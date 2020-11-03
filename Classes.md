@@ -116,3 +116,16 @@ https://mdx-ac-uk.zoom.us/rec/share/S_aZ0L5GnWcbbTBdgcbjoZ1Z0NJh-dWGOALcpfzBXm7T
 Passcode: rFh#6y#1
 
 Recapping what has been covered so far
+
+Week 6
+
+https://codelab.mdx.ac.uk/Nick25/class_code
+
+Some more on Launch files and namespaces
+tf
+publishing tf data - examples in class_code
+urdf
+http://wiki.ros.org/urdf/Tutorials
+http://gazebosim.org/tutorials?tut=ros_urdf
+
+
