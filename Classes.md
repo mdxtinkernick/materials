@@ -119,6 +119,13 @@ Recapping what has been covered so far
 
 Week 6
 
+Zoom recording
+
+https://mdx-ac-uk.zoom.us/rec/share/Tixd1dRHFyAFQ3aFjJm2PoRLGma8BuCYxvxSuubM8AYLo6_w6zDBRV10WFPgaoYk.YSk9aoF7LFMWYR2R 
+
+Passcode: GJ??u6VT 
+
+
 https://codelab.mdx.ac.uk/Nick25/class_code
 
 Some more on Launch files and namespaces
