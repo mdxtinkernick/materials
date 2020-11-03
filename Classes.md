@@ -122,10 +122,15 @@ Week 6
 https://codelab.mdx.ac.uk/Nick25/class_code
 
 Some more on Launch files and namespaces
+
 tf
+
 publishing tf data - examples in class_code
+
 urdf
+
 http://wiki.ros.org/urdf/Tutorials
+
 http://gazebosim.org/tutorials?tut=ros_urdf
 
 
