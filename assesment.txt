@@ -1,0 +1,63 @@
+The assessment this part of the module uses the provided assement_world, available at https://codelab.mdx.ac.uk/Nick25/assessment_world. You need to design a simple robot to move the spheres so that they are in the 'pen' formed by the two walls. The robot needs to have a urdf file with all the necessary parameters defined to load into gazebo in the simulation and be able to move and interact with objects in the simulation to complete the task, or show that it could be completed.
+
+Instructions for the initial launching of the simulation are included in the readme file in the package.
+
+You should use a git repository on codebase.mdx.ac.uk to store and submit your work. This repository should be set to private, and raj and I should be given access.
+
+Create a ros package to and put your files in and regularly update it with clear commit messages to indicate what has been committed.
+
+Your submission is the codelab repository and a demonstration of your work that will be carried out remotely over zoom, by screen sharing your computer screen, or accessing a machine in the lab using splashtop. You will be asked questions about the running system and will need to be able to use the tools available to introspect the system to back up your answers where appropriate.
+
+You will need to have a camera showing you during the assessment, and the call will be recorded to enable the external examiner to moderate the results.
+
+If that will be a problem you need to raise it so that we can make whatever plans we need to in order for you to be able to complete the assessment.
+
+For all the the rubrics below bear in mind that simulation allows you to design structures that would not be able to be built in the real world (not all properties of the real world are simulated). We may ask you how you would propose to construct something if the design has elements that would appear to be impossible to realise in the real world.
+
+To achieve a bare pass you will need to:
+
+Have a git repository that shows more than one commit over the life of the project.
+The git repository will contain the files needed to create your robot model and launch it in the gazebo simulation.
+On visual inspection the design should be appropriate to move the large sphere, and that it should be able to move the sphere to the target location.
+
+You demonstrate this, and are able to answer some of the questions in the demonstration.
+
+To achieve a good pass, in addition to the bare pass criteria you will need to produce:
+
+a simulated robot that will respond to appropriate ros messages and move in the simulation, on making contact with the spheres they repsond appropriately, and you will be able to demonstrate the ability to move the large sphere in a way that clearly shows you could get it to the pen.
+
+Your design will have features that enable it to work well with more than one size of sphere.
+
+You will be able to demonstrate the activity with confidence, and answer most questions that you are asked.
+
+You may have some basic tools developed to aid teleoperation. This could include a sensor and simple ways to visualise it outside of gazebo, and/or tools to control and monitor the robot.
+
+Your git repository shows regular commits as you worked on the project, with good seperation of commits into independent logical parts.
+
+To achieve an excellent pass, in addition to the previous things:
+
+You will have built sufficient functionality in the robot to operate it in gazebo without its gui running and can demonstrate it in that configuration.
+
+You have started to develop strategies for autonomous operation - this may be that some information can be gathered that would enable this process, or you, or you have developed some area of functionality that would enable this to happen, but it may not be fully working. You may be able to identify where the balls are in code, but not move the robot autonomously, or move autonomously, but not identify the balls automatically for example. To work on that you may be using more sophisticated features in git to manage multiple strands of independant work.
+
+
+
+Additional notes: you are not to use the topics in gazebo that provide information about location of items for core functionality - they may be used to test and verify things, but the running system should operate as if the robot was working in the real world, where most objects do not report their location to you.
+
+You can use other ros nodes to get things done, but you need to be clear about what you are using, why you are using it, what functionality it gives you, and why it is a good fit in this situation.
+
+This is an individual project, and there is no single 'correct' answer to what the robot is that would achieve this task. While robots are likely to have many similarities it is unlikely that your robots will be identical.
+
+To get certificates to work with git and codelab you can copy the certificate over from the website by running these two commands a terminal window, and then cloning, pushing and pulling should work in git
+
+openssl s_client -showcerts -servername github.com -connect codelab.mdx.ac.uk:443 </dev/null 2>/dev/null | sed -n -e '/BEGIN\ CERTIFICATE/,/END\ CERTIFICATE/ p'  > github-com.pem
+
+cat github-com.pem | sudo tee -a /etc/ssl/certs/ca-certificates.crt
+
+
+
+
+
+
+
+
